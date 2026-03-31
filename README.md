@@ -1,6 +1,6 @@
 # Open Source Audit Capstone Project: Python
 
-*Student Name:* Aaryan Inzalakr 
+*Student Name:* Aaryan Inzalkar 
 
 *Registration Number:* 24BAI10710
 
